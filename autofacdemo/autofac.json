@@ -1,0 +1,18 @@
+﻿{
+  "defaultAssembly": "autofacdemo",
+  "components": [{
+    "type": "autofacdemo.SqlDAL, autofacdemo",
+    "services": [{
+      "type": "autofacdemo.IDAL"
+    }],
+    "injectProperties": true
+  }, {
+    "type": "autofacdemo.SqlDAL, autofacdemo",
+    "services": [{
+      "type": "autofacdemo.IDAL"
+    }],
+    "parameters": {
+      "places": 4
+    }
+  }]
+}
