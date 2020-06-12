@@ -1,0 +1,16 @@
+D:\Project\IOCDemo\UnityDemo\UnityConsole\bin\Debug\netcoreapp3.1\UnityConsole.exe
+D:\Project\IOCDemo\UnityDemo\UnityConsole\obj\Debug\netcoreapp3.1\UnityConsole.AssemblyInfoInputs.cache
+D:\Project\IOCDemo\UnityDemo\UnityConsole\obj\Debug\netcoreapp3.1\UnityConsole.AssemblyInfo.cs
+D:\Project\IOCDemo\UnityDemo\UnityConsole\bin\Debug\netcoreapp3.1\UnityConsole.deps.json
+D:\Project\IOCDemo\UnityDemo\UnityConsole\bin\Debug\netcoreapp3.1\UnityConsole.runtimeconfig.json
+D:\Project\IOCDemo\UnityDemo\UnityConsole\bin\Debug\netcoreapp3.1\UnityConsole.runtimeconfig.dev.json
+D:\Project\IOCDemo\UnityDemo\UnityConsole\bin\Debug\netcoreapp3.1\UnityConsole.dll
+D:\Project\IOCDemo\UnityDemo\UnityConsole\bin\Debug\netcoreapp3.1\UnityConsole.pdb
+D:\Project\IOCDemo\UnityDemo\UnityConsole\bin\Debug\netcoreapp3.1\Unity.Abstractions.dll
+D:\Project\IOCDemo\UnityDemo\UnityConsole\bin\Debug\netcoreapp3.1\Unity.Container.dll
+D:\Project\IOCDemo\UnityDemo\UnityConsole\obj\Debug\netcoreapp3.1\UnityConsole.csprojAssemblyReference.cache
+D:\Project\IOCDemo\UnityDemo\UnityConsole\obj\Debug\netcoreapp3.1\UnityConsole.csproj.CoreCompileInputs.cache
+D:\Project\IOCDemo\UnityDemo\UnityConsole\obj\Debug\netcoreapp3.1\UnityConsole.csproj.CopyComplete
+D:\Project\IOCDemo\UnityDemo\UnityConsole\obj\Debug\netcoreapp3.1\UnityConsole.dll
+D:\Project\IOCDemo\UnityDemo\UnityConsole\obj\Debug\netcoreapp3.1\UnityConsole.pdb
+D:\Project\IOCDemo\UnityDemo\UnityConsole\obj\Debug\netcoreapp3.1\UnityConsole.genruntimeconfig.cache

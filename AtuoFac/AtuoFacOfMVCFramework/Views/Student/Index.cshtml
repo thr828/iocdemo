@@ -1,0 +1,26 @@
+﻿
+@{
+    ViewBag.Title = "Index";
+}
+@model IEnumerable<Student>
+<h2>Index</h2>
+<table>
+    <tr>
+        <td>Id</td>
+        <td>Name</td>
+        <td>Graduation</td>
+        <td>School</td>
+        <td>Major</td>
+    </tr>
+    @foreach (var  p in Model)
+    {
+        <tr>
+            <td>@p.Id</td>
+            <td>@p.Name</td>
+            <td>@p.Graduation</td>
+            <td>@p.School</td>
+            <td>@p.Major</td>
+        </tr>    
+    }
+</table>
+

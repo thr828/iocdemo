@@ -1,0 +1,26 @@
+{
+  "version": 2,
+  "dgSpecHash": "6Isj9OKJw8IE8Fm+oJO74EcmrTUAxNRZY71Z7RwblHPXZjwwvXv7meKI5LRWxP/1mRaO0z5PODjEjE7+INptRQ==",
+  "success": true,
+  "projectFilePath": "D:\\Project\\IOCDemo\\AtuoFac\\AtuoFacOfMVCFramework\\AtuoFacOfMVCFramework.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\op058161\\.nuget\\packages\\antlr\\3.5.0.2\\antlr.3.5.0.2.nupkg.sha512",
+    "C:\\Users\\op058161\\.nuget\\packages\\autofac\\3.1.0\\autofac.3.1.0.nupkg.sha512",
+    "C:\\Users\\op058161\\.nuget\\packages\\autofac.mvc4\\3.1.0\\autofac.mvc4.3.1.0.nupkg.sha512",
+    "C:\\Users\\op058161\\.nuget\\packages\\bootstrap\\4.5.0\\bootstrap.4.5.0.nupkg.sha512",
+    "C:\\Users\\op058161\\.nuget\\packages\\jquery\\3.3.1\\jquery.3.3.1.nupkg.sha512",
+    "C:\\Users\\op058161\\.nuget\\packages\\jquery.validation\\1.17.0\\jquery.validation.1.17.0.nupkg.sha512",
+    "C:\\Users\\op058161\\.nuget\\packages\\microsoft.aspnet.mvc\\5.2.7\\microsoft.aspnet.mvc.5.2.7.nupkg.sha512",
+    "C:\\Users\\op058161\\.nuget\\packages\\microsoft.aspnet.razor\\3.2.7\\microsoft.aspnet.razor.3.2.7.nupkg.sha512",
+    "C:\\Users\\op058161\\.nuget\\packages\\microsoft.aspnet.web.optimization\\1.1.3\\microsoft.aspnet.web.optimization.1.1.3.nupkg.sha512",
+    "C:\\Users\\op058161\\.nuget\\packages\\microsoft.aspnet.webpages\\3.2.7\\microsoft.aspnet.webpages.3.2.7.nupkg.sha512",
+    "C:\\Users\\op058161\\.nuget\\packages\\microsoft.codedom.providers.dotnetcompilerplatform\\2.0.0\\microsoft.codedom.providers.dotnetcompilerplatform.2.0.0.nupkg.sha512",
+    "C:\\Users\\op058161\\.nuget\\packages\\microsoft.jquery.unobtrusive.validation\\3.2.11\\microsoft.jquery.unobtrusive.validation.3.2.11.nupkg.sha512",
+    "C:\\Users\\op058161\\.nuget\\packages\\microsoft.web.infrastructure\\1.0.0\\microsoft.web.infrastructure.1.0.0.nupkg.sha512",
+    "C:\\Users\\op058161\\.nuget\\packages\\modernizr\\2.8.3\\modernizr.2.8.3.nupkg.sha512",
+    "C:\\Users\\op058161\\.nuget\\packages\\newtonsoft.json\\11.0.1\\newtonsoft.json.11.0.1.nupkg.sha512",
+    "C:\\Users\\op058161\\.nuget\\packages\\popper.js\\1.16.0\\popper.js.1.16.0.nupkg.sha512",
+    "C:\\Users\\op058161\\.nuget\\packages\\webgrease\\1.6.0\\webgrease.1.6.0.nupkg.sha512"
+  ],
+  "logs": []
+}

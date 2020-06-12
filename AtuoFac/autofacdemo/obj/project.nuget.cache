@@ -1,0 +1,24 @@
+{
+  "version": 2,
+  "dgSpecHash": "MHlHRXxnkTO7amh1fwAwImClWVWvXE/JuuNOUHJ2mXoy2DDAZLKeF8I2PYJ3zSo0UmQVKKhryltjbe9LNv0Pug==",
+  "success": true,
+  "projectFilePath": "D:\\Project\\IOCDemo\\AtuoFac\\autofacdemo\\autofacdemo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\op058161\\.nuget\\packages\\autofac\\5.2.0\\autofac.5.2.0.nupkg.sha512",
+    "C:\\Users\\op058161\\.nuget\\packages\\autofac.configuration\\5.1.0\\autofac.configuration.5.1.0.nupkg.sha512",
+    "C:\\Users\\op058161\\.nuget\\packages\\microsoft.extensions.configuration\\5.0.0-preview.5.20278.1\\microsoft.extensions.configuration.5.0.0-preview.5.20278.1.nupkg.sha512",
+    "C:\\Users\\op058161\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\5.0.0-preview.5.20278.1\\microsoft.extensions.configuration.abstractions.5.0.0-preview.5.20278.1.nupkg.sha512",
+    "C:\\Users\\op058161\\.nuget\\packages\\microsoft.extensions.configuration.binder\\2.2.0\\microsoft.extensions.configuration.binder.2.2.0.nupkg.sha512",
+    "C:\\Users\\op058161\\.nuget\\packages\\microsoft.extensions.configuration.fileextensions\\5.0.0-preview.5.20278.1\\microsoft.extensions.configuration.fileextensions.5.0.0-preview.5.20278.1.nupkg.sha512",
+    "C:\\Users\\op058161\\.nuget\\packages\\microsoft.extensions.configuration.json\\5.0.0-preview.5.20278.1\\microsoft.extensions.configuration.json.5.0.0-preview.5.20278.1.nupkg.sha512",
+    "C:\\Users\\op058161\\.nuget\\packages\\microsoft.extensions.fileproviders.abstractions\\5.0.0-preview.5.20278.1\\microsoft.extensions.fileproviders.abstractions.5.0.0-preview.5.20278.1.nupkg.sha512",
+    "C:\\Users\\op058161\\.nuget\\packages\\microsoft.extensions.fileproviders.physical\\5.0.0-preview.5.20278.1\\microsoft.extensions.fileproviders.physical.5.0.0-preview.5.20278.1.nupkg.sha512",
+    "C:\\Users\\op058161\\.nuget\\packages\\microsoft.extensions.filesystemglobbing\\5.0.0-preview.5.20278.1\\microsoft.extensions.filesystemglobbing.5.0.0-preview.5.20278.1.nupkg.sha512",
+    "C:\\Users\\op058161\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.0-preview.5.20278.1\\microsoft.extensions.primitives.5.0.0-preview.5.20278.1.nupkg.sha512",
+    "C:\\Users\\op058161\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\5.0.0-preview.5.20278.1\\system.runtime.compilerservices.unsafe.5.0.0-preview.5.20278.1.nupkg.sha512",
+    "C:\\Users\\op058161\\.nuget\\packages\\system.text.encodings.web\\5.0.0-preview.5.20278.1\\system.text.encodings.web.5.0.0-preview.5.20278.1.nupkg.sha512",
+    "C:\\Users\\op058161\\.nuget\\packages\\system.text.json\\5.0.0-preview.5.20278.1\\system.text.json.5.0.0-preview.5.20278.1.nupkg.sha512",
+    "C:\\Users\\op058161\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
