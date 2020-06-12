@@ -9,7 +9,6 @@ D:\Project\IOCDemo\AtuoFac\AtuoFacOfMVC4\bin\Debug\netcoreapp3.1\AtuoFacOfMVC4.d
 D:\Project\IOCDemo\AtuoFac\AtuoFacOfMVC4\bin\Debug\netcoreapp3.1\AtuoFacOfMVC4.pdb
 D:\Project\IOCDemo\AtuoFac\AtuoFacOfMVC4\bin\Debug\netcoreapp3.1\AtuoFacOfMVC4.Views.dll
 D:\Project\IOCDemo\AtuoFac\AtuoFacOfMVC4\bin\Debug\netcoreapp3.1\AtuoFacOfMVC4.Views.pdb
-D:\Project\IOCDemo\AtuoFac\AtuoFacOfMVC4\obj\Debug\netcoreapp3.1\AtuoFacOfMVC4.csprojAssemblyReference.cache
 D:\Project\IOCDemo\AtuoFac\AtuoFacOfMVC4\obj\Debug\netcoreapp3.1\AtuoFacOfMVC4.AssemblyInfoInputs.cache
 D:\Project\IOCDemo\AtuoFac\AtuoFacOfMVC4\obj\Debug\netcoreapp3.1\AtuoFacOfMVC4.AssemblyInfo.cs
 D:\Project\IOCDemo\AtuoFac\AtuoFacOfMVC4\obj\Debug\netcoreapp3.1\AtuoFacOfMVC4.csproj.CoreCompileInputs.cache

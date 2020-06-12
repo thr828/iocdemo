@@ -43,6 +43,10 @@
       "frameworks": {
         "netcoreapp3.1": {
           "dependencies": {
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[5.0.0-preview.5.20278.1, )"
+            },
             "Unity": {
               "target": "Package",
               "version": "[5.11.7, )"

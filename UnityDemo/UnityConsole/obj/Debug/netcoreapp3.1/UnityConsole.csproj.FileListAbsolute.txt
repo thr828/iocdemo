@@ -8,9 +8,13 @@ D:\Project\IOCDemo\UnityDemo\UnityConsole\bin\Debug\netcoreapp3.1\UnityConsole.d
 D:\Project\IOCDemo\UnityDemo\UnityConsole\bin\Debug\netcoreapp3.1\UnityConsole.pdb
 D:\Project\IOCDemo\UnityDemo\UnityConsole\bin\Debug\netcoreapp3.1\Unity.Abstractions.dll
 D:\Project\IOCDemo\UnityDemo\UnityConsole\bin\Debug\netcoreapp3.1\Unity.Container.dll
-D:\Project\IOCDemo\UnityDemo\UnityConsole\obj\Debug\netcoreapp3.1\UnityConsole.csprojAssemblyReference.cache
-D:\Project\IOCDemo\UnityDemo\UnityConsole\obj\Debug\netcoreapp3.1\UnityConsole.csproj.CoreCompileInputs.cache
 D:\Project\IOCDemo\UnityDemo\UnityConsole\obj\Debug\netcoreapp3.1\UnityConsole.csproj.CopyComplete
 D:\Project\IOCDemo\UnityDemo\UnityConsole\obj\Debug\netcoreapp3.1\UnityConsole.dll
 D:\Project\IOCDemo\UnityDemo\UnityConsole\obj\Debug\netcoreapp3.1\UnityConsole.pdb
 D:\Project\IOCDemo\UnityDemo\UnityConsole\obj\Debug\netcoreapp3.1\UnityConsole.genruntimeconfig.cache
+D:\Project\IOCDemo\UnityDemo\UnityConsole\obj\Debug\netcoreapp3.1\UnityConsole.csprojAssemblyReference.cache
+D:\Project\IOCDemo\UnityDemo\UnityConsole\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\Project\IOCDemo\UnityDemo\UnityConsole\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Project\IOCDemo\UnityDemo\UnityConsole\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\Project\IOCDemo\UnityDemo\UnityConsole\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+D:\Project\IOCDemo\UnityDemo\UnityConsole\obj\Debug\netcoreapp3.1\UnityConsole.csproj.CoreCompileInputs.cache
