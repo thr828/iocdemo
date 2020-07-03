@@ -34,3 +34,4 @@ D:\Project\IOCDemo\AtuoFac\AtuoFacOfMVC4\obj\Debug\netcoreapp3.1\AtuoFacOfMVC4.d
 D:\Project\IOCDemo\AtuoFac\AtuoFacOfMVC4\obj\Debug\netcoreapp3.1\AtuoFacOfMVC4.pdb
 D:\Project\IOCDemo\AtuoFac\AtuoFacOfMVC4\obj\Debug\netcoreapp3.1\AtuoFacOfMVC4.genruntimeconfig.cache
 D:\Project\IOCDemo\AtuoFac\AtuoFacOfMVC4\obj\Debug\netcoreapp3.1\AtuoFacOfMVC4.csproj.CopyComplete
+D:\Project\IOCDemo\AtuoFac\AtuoFacOfMVC4\obj\Debug\netcoreapp3.1\AtuoFacOfMVC4.csprojAssemblyReference.cache

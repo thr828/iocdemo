@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "gveAjzp3xGVx3oYVeWn4w5pzs3bNxvgUafWixoeGX3w+A/dCUiWgRlOLpycWG0HOXKxKJXY13iNf7JPA2BRM4Q==",
+  "dgSpecHash": "vBj9zzbRT8rW/Id25ZfZzDmSZS5BOHxJcAUlEWHZbff5jyEAMsOYhRwQ5ul1jB8OYsQnhcTzOMzxsmR01zOuXg==",
   "success": true,
   "projectFilePath": "D:\\Project\\IOCDemo\\UnityDemo\\UnityConsole\\UnityConsole.csproj",
   "expectedPackageFiles": [
@@ -8,8 +8,7 @@
     "C:\\Users\\op058161\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\5.0.0-preview.5.20278.1\\microsoft.extensions.configuration.abstractions.5.0.0-preview.5.20278.1.nupkg.sha512",
     "C:\\Users\\op058161\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.0-preview.5.20278.1\\microsoft.extensions.primitives.5.0.0-preview.5.20278.1.nupkg.sha512",
     "C:\\Users\\op058161\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\5.0.0-preview.5.20278.1\\system.runtime.compilerservices.unsafe.5.0.0-preview.5.20278.1.nupkg.sha512",
-    "C:\\Users\\op058161\\.nuget\\packages\\unity\\5.11.7\\unity.5.11.7.nupkg.sha512",
-    "C:\\Users\\op058161\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+    "C:\\Users\\op058161\\.nuget\\packages\\unity\\5.11.7\\unity.5.11.7.nupkg.sha512"
   ],
   "logs": []
 }

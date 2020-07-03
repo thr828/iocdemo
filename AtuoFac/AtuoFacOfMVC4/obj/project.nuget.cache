@@ -1,10 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ewmrF11EiU9go0xDtiHgR6z3Go8bINdL35jrO90VyDwbJ6olixva3emgQTjmKfrXKqzA0p0UrdUVI5ah5H6QyA==",
+  "dgSpecHash": "c1bJ1RM760ADxTE1+F8CiLVtmNFvPDnb7cxXCHxhhTAEuLco0gHmxpKHUZU81/lWSLvt1H3kqOgB/bNhFR8f1A==",
   "success": true,
   "projectFilePath": "D:\\Project\\IOCDemo\\AtuoFac\\AtuoFacOfMVC4\\AtuoFacOfMVC4.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\op058161\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
-  ],
+  "expectedPackageFiles": [],
   "logs": []
 }

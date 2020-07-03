@@ -1,0 +1,15 @@
+D:\Project\IOCDemo\IOCDemo\bin\Debug\netcoreapp3.1\IOCDemo.exe
+D:\Project\IOCDemo\IOCDemo\obj\Debug\netcoreapp3.1\IOCDemo.AssemblyInfoInputs.cache
+D:\Project\IOCDemo\IOCDemo\obj\Debug\netcoreapp3.1\IOCDemo.AssemblyInfo.cs
+D:\Project\IOCDemo\IOCDemo\bin\Debug\netcoreapp3.1\IOCDemo.deps.json
+D:\Project\IOCDemo\IOCDemo\bin\Debug\netcoreapp3.1\IOCDemo.runtimeconfig.json
+D:\Project\IOCDemo\IOCDemo\bin\Debug\netcoreapp3.1\IOCDemo.runtimeconfig.dev.json
+D:\Project\IOCDemo\IOCDemo\bin\Debug\netcoreapp3.1\IOCDemo.dll
+D:\Project\IOCDemo\IOCDemo\bin\Debug\netcoreapp3.1\IOCDemo.pdb
+D:\Project\IOCDemo\IOCDemo\bin\Debug\netcoreapp3.1\Ninject.dll
+D:\Project\IOCDemo\IOCDemo\obj\Debug\netcoreapp3.1\IOCDemo.csproj.CoreCompileInputs.cache
+D:\Project\IOCDemo\IOCDemo\obj\Debug\netcoreapp3.1\IOCDemo.csproj.CopyComplete
+D:\Project\IOCDemo\IOCDemo\obj\Debug\netcoreapp3.1\IOCDemo.dll
+D:\Project\IOCDemo\IOCDemo\obj\Debug\netcoreapp3.1\IOCDemo.pdb
+D:\Project\IOCDemo\IOCDemo\obj\Debug\netcoreapp3.1\IOCDemo.genruntimeconfig.cache
+D:\Project\IOCDemo\IOCDemo\obj\Debug\netcoreapp3.1\IOCDemo.csprojAssemblyReference.cache
