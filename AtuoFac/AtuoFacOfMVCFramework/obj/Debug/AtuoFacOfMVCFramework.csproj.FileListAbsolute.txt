@@ -46,4 +46,3 @@ D:\Project\IOCDemo\AtuoFac\AtuoFacOfMVCFramework\obj\Debug\AtuoFacOfMVCFramework
 D:\Project\IOCDemo\AtuoFac\AtuoFacOfMVCFramework\obj\Debug\AtuoFacOfMVCFramework.csproj.CopyComplete
 D:\Project\IOCDemo\AtuoFac\AtuoFacOfMVCFramework\obj\Debug\AtuoFacOfMVCFramework.dll
 D:\Project\IOCDemo\AtuoFac\AtuoFacOfMVCFramework\obj\Debug\AtuoFacOfMVCFramework.pdb
-D:\Project\IOCDemo\AtuoFac\AtuoFacOfMVCFramework\obj\Debug\AtuoFacOfMVCFramework.csprojAssemblyReference.cache

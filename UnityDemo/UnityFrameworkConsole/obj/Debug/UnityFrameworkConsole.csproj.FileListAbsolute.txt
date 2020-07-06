@@ -9,3 +9,4 @@ D:\Project\IOCDemo\UnityDemo\UnityFrameworkConsole\bin\Debug\System.Runtime.Comp
 D:\Project\IOCDemo\UnityDemo\UnityFrameworkConsole\bin\Debug\System.Threading.Tasks.Extensions.xml
 D:\Project\IOCDemo\UnityDemo\UnityFrameworkConsole\obj\Debug\UnityFrameworkConsole.csproj.CopyComplete
 D:\Project\IOCDemo\UnityDemo\UnityFrameworkConsole\bin\Debug\unity.config
+D:\Project\IOCDemo\UnityDemo\UnityFrameworkConsole\obj\Debug\UnityFrameworkConsole.csprojAssemblyReference.cache

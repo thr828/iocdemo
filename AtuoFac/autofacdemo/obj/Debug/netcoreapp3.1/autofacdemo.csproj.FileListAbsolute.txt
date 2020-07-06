@@ -55,4 +55,3 @@ D:\Project\IOCDemo\AtuoFac\autofacdemo\obj\Debug\netcoreapp3.1\autofacdemo.cspro
 D:\Project\IOCDemo\AtuoFac\autofacdemo\obj\Debug\netcoreapp3.1\autofacdemo.dll
 D:\Project\IOCDemo\AtuoFac\autofacdemo\obj\Debug\netcoreapp3.1\autofacdemo.pdb
 D:\Project\IOCDemo\AtuoFac\autofacdemo\obj\Debug\netcoreapp3.1\autofacdemo.genruntimeconfig.cache
-D:\Project\IOCDemo\AtuoFac\autofacdemo\obj\Debug\netcoreapp3.1\autofacdemo.csprojAssemblyReference.cache
